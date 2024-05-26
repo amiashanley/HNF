@@ -150,14 +150,6 @@ function playAudio(audioSrc, popupText) {
     }
 
     audio = new Audio(audioSrc); // Assign to the global audio variable
-    
-    // Normalize volume for denoise files
-    if (audioSrc.startsWith(denoiseRepository)) {
-        audio.volume = 0.6; // Adjust as needed to normalize volume
-    } else if (audioSrc.startsWith(noiseRepository)) {
-        audio.volume = 0.1; // Adjust as needed to normalize volume for noise files
-    }
-
     audio.loop = true;
     audio.play();
 

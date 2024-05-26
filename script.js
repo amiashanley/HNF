@@ -300,7 +300,7 @@ function showPopup() {
     <div class="page" id="page-8" style="display: none;">
         <p>In navigating the HNF Interactive Noise Map, I hope that listeners may actively explore the noise floor as a 'tangled cartography' (Hilde Neset, 2007) that holds traces of globalised value chains, microhistories, and geospheric systems.</p>
         <br>
-        <p>The HNF Interactive Noise Map aims to pay homage to the mapping processes used by curators Lina Dzuverovic and Anne Hilde Neset, at the inception of Her Noise (2005), and act as a contemporary continuation of the Her Noise Archive—a place to reimagine, rearrange, and relisten to the material conditions of the past through emergent auditory cultures.</p>
+        <p>The HNF Interactive Noise Map aims to pay homage to the mapping processes used by curators Lina Dzuverovic and Anne Hilde Neset, at the inception of Her Noise (2005), and act as a contemporary continuation of the Her Noise Archive—a place to reimagine, rearrange, and relisten to the material conditions of the past through emergent auditory cultures and technologies.</p>
         <br>
         <p>amias hanley x</p>
         <a href="http://www.amiashanley.com">www.amiashanley.com</a>

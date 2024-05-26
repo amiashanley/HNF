@@ -276,9 +276,9 @@ function showPopup() {
     <br>
     <p>You will encounter two types of buttons:</p>
     <ol>
-        <li><b>Yellow</b> buttons play unprocessed samples from the HNF training data that have been classified by the model as “noise” (denoted by the letters HNF).</li>
+        <li><b>Yellow</b> buttons play unprocessed samples from the HNF data that have been classified by the model as “noise” (denoted by the letters HNF).</li>
         <br>
-        <li><b>Black</b> buttons play the same samples, however, these samples have been denoised using accentuated Band Pass Filtering techniques (denoted by the letters BPF).</li>
+        <li><b>Black</b> buttons play the same samples, however, these samples have been denoised using Band Pass Filtering techniques (denoted by the letters BPF).</li>
     </ol>
     <br>
     <p><b>How to Use:</b></p>
@@ -289,9 +289,9 @@ function showPopup() {
     <br>
     <p><b>Text Pop-Ups:</b></p>
     <ul>
-        <li>The text pop-ups that correspond to the <b>yellow</b> buttons contain information linked to local noise floor contributors (i.e. time, date, location, weather, etc).</li> 
+        <li>The text pop-ups that correspond to the <b>yellow</b> buttons contain information linked to local noise floor contributors (i.e. time, date, location, featured artists, etc).</li> 
     <br>
-        <li>The text pop-ups that correspond to the <b>black</b> buttons contain information that links the noise floor to its planetary context (i.e. rare earth elements used in the recording technologies, place of device manufacture, weather data, etc).</li>
+        <li>The text pop-ups that correspond to the <b>black</b> buttons contain information that links the noise floor to its planetary context (i.e. rare earth elements used in the recording technologies and place of manufacture, weather data, etc).</li>
     </ul>
         <button id="back-button-7" class="back-button" onclick="showPage(6)">Back</button>
         <button id="next-button-7" class="next-button" onclick="showPage(8)">Next</button>

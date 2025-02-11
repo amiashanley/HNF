@@ -8,14 +8,6 @@
   <b>AMIAS HANLEY</b><br>
   <b>2024</b>
 </p>
-<p align="center">
-  MA Sound Arts<br>
-  London College of Communication
-</p>
-<p align="center">
-  <br>
-</p>
-
 
 
 Her Noise Floor: Selection, Extraction, Exclusion (HNF) is a practice-based research project, which responds to digital audio material that is housed within the Her Noise Archive at UAL Archives and Special Collections Centre.
